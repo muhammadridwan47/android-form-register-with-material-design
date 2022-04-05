@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Workshop5April</string>
+    <string name="register">Register</string>
+    <string name="name">Nama</string>
+    <string name="phoneNumber">Telepon</string>
+    <string name="examplePhoneNumber">contoh: 89755856586</string>
+    <string name="prefixPhoneNumber">+62</string>
+    <string name="email">Email</string>
+    <string name="exampleEmail">contoh: nama@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="address">Alamat</string>
+    <string name="gender">Jenis Kelamin:</string>
+    <string name="male">laki-Laki</string>
+    <string name="female">Perempuan</string>
+    <string name="term">Saya setuju dengan berbagai ketentuan yang ada</string>
+    <string name="submit">Submit</string>
+</resources>

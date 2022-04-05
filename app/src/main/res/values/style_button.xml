@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button" parent="Widget.MaterialComponents.Button">
+        <item name="android:height" >@dimen/spacing_largest</item>
+        <item name="android:textAppearance" >@style/body.subtitle</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">@dimen/spacing_larger</item>
+    </style>
+
+</resources>
